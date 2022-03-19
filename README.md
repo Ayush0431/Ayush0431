@@ -10,8 +10,8 @@
 🔭 I have worked as:
 
    - Contributor @Menscript Winter of Contributing
-   - Contributor @Pibliclab/plots2
-   - Open Source Contributor @GSOc(Google Summer of Codes-Wikimedia)
+   - Contributor @Publiclab/plots2
+   - Open Source Contributor @GSOC(Google Summer of Codes-Wikimedia)
    - Working on Phabricator as a contributor
    - Also worked on a goverment website in @SIH(Smart India Hackerthon)
 
