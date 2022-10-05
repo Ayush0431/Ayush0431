@@ -38,4 +38,4 @@
     </a>
     <h2>🎖️Bagdes Earned</h2>
 
-[![@Ayush0431's Holopin board](https://holopin.io/api/user/board?user=Ayush0431)](https://holopin.io/@Ayush0431)
+[![@ayush07's Holopin board](https://holopin.io/api/user/board?user=ayush07)](https://holopin.io/@ayush07)
