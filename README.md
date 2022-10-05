@@ -13,7 +13,7 @@
    - Contributor @Publiclab/plots2
    - Open Source Contributor @GSOC(Google Summer of Codes-Wikimedia)
    - Working on Phabricator as a contributor
-   - Also worked on a goverment website in @SIH(Smart India Hackerthon)
+   - Also won the Smart India Hackerthon held at national level.
 
 👀 I’m Keenly interested in fields of Web Development & Competitive Programming.
 
